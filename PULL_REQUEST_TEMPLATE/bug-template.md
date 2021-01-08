@@ -1,6 +1,6 @@
 AB#
 
-# Pull Request Template
+# Bug Template
 
 ## Description
 
