@@ -10,18 +10,7 @@ add 4
 
 add 5
 
-add 6
-
-add 7
-
-add 8
-
-add 9
-
-add 10
-
-add 11
-
+add 6 
 add 12
 
 add 13
